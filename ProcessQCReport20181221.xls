@@ -1,0 +1,315 @@
+<div>
+	<table class="gridview" cellspacing="0" rules="all" border="1" id="cphPage_gvwTaskStatus" style="width:900px;border-collapse:collapse;">
+		<tr style="font-weight:bold;">
+			<th scope="col">Emp Id</th><th scope="col">WP Name</th><th scope="col">Task</th><th scope="col">Previous Task</th><th scope="col">Start Time</th><th scope="col">End Time</th><th scope="col">Estimate Time</th><th scope="col">Time Taken</th><th scope="col">Complete %</th><th scope="col">Status</th><th scope="col">No Of Errors</th><th scope="col">Quality Status</th><th scope="col">QC Task</th>
+		</tr><tr>
+			<td>
+                                            <span id="cphPage_gvwTaskStatus_lblEmpId_0">ARDP6641</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblWpName_0">AL_AMRAT_ADDEBM_AS_WP3_1</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblTask_0">Process QC</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblPrevioustask_0">Addressing Streets</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblStartTime_0">10/26/2018 9:59:57 AM</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblEndTime_0">10/26/2018 3:00:18 PM</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblEstTime_0">3.03</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblTimeTaken_0">3.18</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblCompletePercent_0">100</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblStatus_0">complete</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblNoOfErrors_0">35</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblQualityStatus_0">Accept with errors</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblQCTask_0"></span>
+                                        </td>
+		</tr><tr>
+			<td>
+                                            <span id="cphPage_gvwTaskStatus_lblEmpId_1">ARDP6641</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblWpName_1">AL_AMRAT_ADDEBM_AS_WP3_4</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblTask_1">Process QC</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblPrevioustask_1">Addressing Streets</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblStartTime_1">10/26/2018 3:00:44 PM</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblEndTime_1">10/26/2018 4:52:29 PM</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblEstTime_1">0.6</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblTimeTaken_1">1.86</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblCompletePercent_1">100</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblStatus_1">complete</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblNoOfErrors_1">14</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblQualityStatus_1">Accept with errors</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblQCTask_1"></span>
+                                        </td>
+		</tr><tr>
+			<td>
+                                            <span id="cphPage_gvwTaskStatus_lblEmpId_2">ARDP6641</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblWpName_2">AL_AMRAT_ADDEBM_AS_WP5_1</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblTask_2">Process QC</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblPrevioustask_2">Addressing Streets</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblStartTime_2">10/26/2018 4:52:58 PM</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblEndTime_2">10/29/2018 12:12:06 PM</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblEstTime_2">3.37</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblTimeTaken_2">3.27</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblCompletePercent_2">100</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblStatus_2">complete</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblNoOfErrors_2">30</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblQualityStatus_2">Accept with errors</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblQCTask_2"></span>
+                                        </td>
+		</tr><tr>
+			<td>
+                                            <span id="cphPage_gvwTaskStatus_lblEmpId_3">ARDP6641</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblWpName_3">AL_AMRAT_ADDEBM_AS_WP5_4</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblTask_3">Process QC</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblPrevioustask_3">Addressing Streets</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblStartTime_3">10/29/2018 2:29:12 PM</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblEndTime_3">12/1/2018 10:52:40 AM</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblEstTime_3">8.4</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblTimeTaken_3">4.27</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblCompletePercent_3">100</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblStatus_3">complete</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblNoOfErrors_3">25</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblQualityStatus_3">Accept with errors</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblQCTask_3"></span>
+                                        </td>
+		</tr><tr>
+			<td>
+                                            <span id="cphPage_gvwTaskStatus_lblEmpId_4">ARDP6641</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblWpName_4">AL_AMRAT_ADDEBM_AU_WP1_1</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblTask_4">Process QC</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblPrevioustask_4">Addressing Units</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblStartTime_4">11/19/2018 10:30:33 AM</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblEndTime_4">12/1/2018 3:37:45 PM</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblEstTime_4">4.08</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblTimeTaken_4">5.01</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblCompletePercent_4">100</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblStatus_4">complete</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblNoOfErrors_4">12</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblQualityStatus_4">Rejected</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblQCTask_4"></span>
+                                        </td>
+		</tr><tr>
+			<td>
+                                            <span id="cphPage_gvwTaskStatus_lblEmpId_5">ARDP6641</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblWpName_5">AL_AMRAT_ADDEBM_AU_WP2_4</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblTask_5">Process QC</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblPrevioustask_5">Addressing Units</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblStartTime_5">12/3/2018 5:07:59 PM</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblEndTime_5">12/4/2018 7:07:16 PM</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblEstTime_5">9.64</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblTimeTaken_5">8.64</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblCompletePercent_5">100</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblStatus_5">complete</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblNoOfErrors_5">59</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblQualityStatus_5">Accept with errors</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblQCTask_5"></span>
+                                        </td>
+		</tr><tr>
+			<td>
+                                            <span id="cphPage_gvwTaskStatus_lblEmpId_6">ARDP6641</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblWpName_6">AL_AMRAT_ADDEBM_AU_WP2_6</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblTask_6">Process QC</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblPrevioustask_6">IQC Fixing</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblStartTime_6">12/10/2018 11:01:55 AM</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblEndTime_6">12/11/2018 10:13:26 AM</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblEstTime_6">3.48</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblTimeTaken_6">3.89</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblCompletePercent_6">100</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblStatus_6">complete</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblNoOfErrors_6">8</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblQualityStatus_6">Accept with errors</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblQCTask_6"></span>
+                                        </td>
+		</tr><tr>
+			<td>
+                                            <span id="cphPage_gvwTaskStatus_lblEmpId_7">ARDP6641</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblWpName_7">AL_AMRAT_ADDEBM_AU_WP3_3</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblTask_7">Process QC</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblPrevioustask_7">Addressing Units</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblStartTime_7">12/5/2018 12:05:21 PM</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblEndTime_7">12/10/2018 11:01:26 AM</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblEstTime_7">7.2</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblTimeTaken_7">9.73</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblCompletePercent_7">100</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblStatus_7">complete</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblNoOfErrors_7">30</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblQualityStatus_7">Accept with errors</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblQCTask_7"></span>
+                                        </td>
+		</tr><tr>
+			<td>
+                                            <span id="cphPage_gvwTaskStatus_lblEmpId_8">ARDP6641</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblWpName_8">AL_AMRAT_ADDEBM_AU_WP4_1</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblTask_8">Process QC</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblPrevioustask_8">IQC Fixing</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblStartTime_8">12/11/2018 10:14:00 AM</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblEndTime_8">12/12/2018 11:28:41 AM</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblEstTime_8">3.79</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblTimeTaken_8">8.51</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblCompletePercent_8">100</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblStatus_8">complete</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblNoOfErrors_8">25</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblQualityStatus_8">Accept with errors</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblQCTask_8"></span>
+                                        </td>
+		</tr><tr>
+			<td>
+                                            <span id="cphPage_gvwTaskStatus_lblEmpId_9">ARDP6641</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblWpName_9">AL_AMRAT_ADDEBM_AU_WP4_4</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblTask_9">Process QC</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblPrevioustask_9">Addressing Units</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblStartTime_9">12/1/2018 3:38:13 PM</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblEndTime_9">12/3/2018 5:07:27 PM</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblEstTime_9">4.65</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblTimeTaken_9">3.97</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblCompletePercent_9">100</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblStatus_9">complete</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblNoOfErrors_9">9</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblQualityStatus_9">Accept with errors</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblQCTask_9"></span>
+                                        </td>
+		</tr><tr>
+			<td>
+                                            <span id="cphPage_gvwTaskStatus_lblEmpId_10">ARDP6641</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblWpName_10">AL_AMRAT_ADDEBM_AU_WP4_6</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblTask_10">Process QC</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblPrevioustask_10">Addressing Units</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblStartTime_10">12/4/2018 7:07:51 PM</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblEndTime_10">12/5/2018 12:04:56 PM</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblEstTime_10">7.05</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblTimeTaken_10">5.20</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblCompletePercent_10">100</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblStatus_10">complete</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblNoOfErrors_10">10</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblQualityStatus_10">Accept with errors</span>
+                                        </td><td>
+                                            <span id="cphPage_gvwTaskStatus_lblQCTask_10"></span>
+                                        </td>
+		</tr>
+	</table>
+</div>
